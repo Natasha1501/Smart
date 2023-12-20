@@ -1,0 +1,165 @@
+/* 2 */
+
+.Featured{
+    display: block;
+    position: absolute;
+    top:1600px;
+    text-align: center;
+    font-size: 50px;
+    height: 58px;
+    width: 100%;
+    background-color: #fbfbfb;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
+}
+.f1{
+    color: #e86646; 
+    
+}
+.p1{
+    color: #6e6e6e;
+}
+.smtext2{
+    position: absolute;
+    top: 58px;
+    font-size: 15px;
+    color: #6e6e6ec9;
+    background-color: #fbfbfb;
+    width: 100%;
+}
+.photo{
+    display: block;
+    height: 2000%;
+    width: 100%;
+    background-color:  #fbfbfb;
+
+}
+.p11{
+    position: absolute;
+    top: 100px;
+    right: 900px;
+}
+.p2{
+    position: absolute;
+    top: 100px;
+    right: 580px;
+}
+.p3{
+    position: absolute;
+    top: 100px;
+    right: 260px;
+}
+.p4{
+    position: absolute;
+    top: 420px;
+    right: 900px;
+}
+.p5{
+    position: absolute;
+    top: 420px;
+    right: 580px;
+}
+.p6{
+    position: absolute;
+    top: 420px;
+    right: 260px;
+}
+.p7{
+    position: absolute;
+    top: 740px;
+    right:900px;
+}
+.p8{
+    position: absolute;
+    top: 740px;
+    right:580px;
+}
+.p9{
+    position: absolute;
+    top: 740px;
+    right:260px;
+}
+.smtext3{
+    position: absolute;
+    font-size: 15px;
+    color: #6e6e6ec9;
+    width: 100%;
+}
+
+.leftbloks{
+    display: inline-block;
+    height: 700px;
+    width: 100%;
+    
+}
+.as{
+    
+    height: 100%;
+    width: 20%;
+    
+    
+}
+.dio{
+    position:absolute;
+    top: 1420px;
+    left: 50px;
+    height: 80px;
+    width: 80px;
+    box-shadow: 2px 1px  1px 1px rgba(0, 0, 0, 0.353);
+   
+    
+}
+.dio2{
+    position:absolute;
+    top: 1540px;
+    left: 50px;
+    height: 80px;
+    width: 80px;
+    box-shadow: 2px 1px  1px 1px rgba(0, 0, 0, 0.353);
+}
+.dio3{
+    position:absolute;
+    top: 1660px;
+    left: 50px;
+    height: 80px;
+    width: 80px;
+    box-shadow: 2px 1px  1px 1px rgba(0, 0, 0, 0.353);
+    
+}
+.dio4{
+    position:absolute;
+    top: 1790px;
+    left: 50px;
+    height: 80px;
+    width: 80px;
+    box-shadow: 2px 1px  1px 1px rgba(0, 0, 0, 0.353);
+}
+.txt3{
+    display: flex;
+    position: absolute;
+    top: 1450px;
+    left: 370px;
+    height: 300px;
+    width: 600px;
+    font-size: 18px;
+    justify-content: space-evenly;
+    align-items: baseline;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+
+}
+.o1{
+    font-size: 15px;
+}
+.apple{
+    display: block;
+    position: absolute;
+    top:1500px;
+    left: 1100px;
+   
+    
+   
+}
